@@ -122,7 +122,7 @@ function abbrevName(name) {
 ## `Japanese Grid Big`
 
 ![japanese-grid-help](japanese-grid-help.png)
-
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -180,6 +180,7 @@ function abbrevName(name) {
     </div>
     </body>
 </html>
+```
 
 ```css
 #app {
