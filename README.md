@@ -121,7 +121,7 @@ function abbrevName(name) {
 
 ## `Japanese Grid Big`
 
-![image](./japanese-grid-help.png)
+![image](japanese-grid-help.png)
 
 <!DOCTYPE html>
 <html lang="en">
